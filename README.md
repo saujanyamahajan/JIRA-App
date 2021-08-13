@@ -1,5 +1,5 @@
 # JIRA-App 
-### *[Hands-on the project](https://jira-app.vercel.app/)*
+### *[Hands-on the project](https://jira-app-peach.vercel.app/)*
 <!--  <a href="https://jira-app.vercel.app/" target="_blank"> <img src="/images/logo.png" alt="javascript" height = "100" width = "150" /> </a> -->
  
 
